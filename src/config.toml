@@ -1,0 +1,6 @@
+# Basic config
+baseURL = "https://roryroberts.github.io/"
+languageCode = "en-gb"
+title = "Rory Roberts"
+theme = "classic"
+publishDir = "../"
